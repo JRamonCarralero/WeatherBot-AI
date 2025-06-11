@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.so
+.Python
+env/
+.venv/
+pip-log.log
+pip-delete-this-arg-if-you-really-want-to-remove-it
+.project
+.idea/
+.vscode/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+.Trashes
+Thumbs.db
+
+# Sensitive files
+credentials.json
+token.json
+.env
+*.env
+
+# Build outputs
+dist/
+build/
+target/
+
+# Data/Models (adjust based on your ADK's specifics)
+data/
+models/
+output/
